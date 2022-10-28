@@ -235,6 +235,13 @@ input:focus {
   flex-direction: column;
 }
 
+.delete {
+  float: right;
+  font-size: 2rem;
+  color: tomato;
+  cursor: pointer;
+}
+
 @media (min-width: 768px) {
   .modal {
     width: 40rem;
